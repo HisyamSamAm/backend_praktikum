@@ -44,7 +44,6 @@ func init() {
 // @contact.url https://github.com/HisyamSamAm
 // @contact.email mhisyamnajwan@gmail.com
 
-// @host localhost:8088
 // @BasePath /
 // @schemes http https
 // @securityDefinitions.apikey BearerAuth
